@@ -19,3 +19,8 @@ header {
 
 }
 
+.main {
+    width: 61%;
+    height: 600px;
+    background: black;
+}
