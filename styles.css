@@ -24,3 +24,10 @@ header {
     height: 600px;
     background: black;
 }
+footer {
+    width: 95%;
+    height: 30px;
+    background: #c5d3d3;
+    padding-top: 7px;
+
+}
